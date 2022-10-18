@@ -4,7 +4,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://fischheer.github.io/nlwsports/)
+[Clique aqui para acessar](https://fischheer.github.io/nlwesports/)
 
 ## Tecnologias 
 
